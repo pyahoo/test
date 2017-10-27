@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class Osoby
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Koniec");
-            Console.ReadKey();
-        }
     }
 }
